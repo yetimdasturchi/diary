@@ -294,7 +294,7 @@ entries:
             url: blockcomment.htm
           - title: "// (bir qatorli izoh)"
             url: singlelinecomment.htm
-          - title: "; (semicolon)"
+          - title: "; (semikolon)"
             url: semicolon.htm
           - title: "{} (figurali qavs)"
             url: curlybraces.htm
