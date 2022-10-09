@@ -290,49 +290,49 @@ entries:
             url: define.htm
           - title: "#include (include)"
             url: include.htm
-          - title: "/* */ (block comment)"
+          - title: "/* */ (ko'p qatorli izoh)"
             url: blockcomment.htm
-          - title: "// (single line comment)"
+          - title: "// (bir qatorli izoh)"
             url: singlelinecomment.htm
           - title: "; (semicolon)"
             url: semicolon.htm
-          - title: "{} (curly braces)"
+          - title: "{} (figurali qavs)"
             url: curlybraces.htm
       - title: "Arifmetik operatorlar"
         entries:
-          - title: "% (remainder)"
+          - title: "% (qoldiq)"
             url: remainder.htm
-          - title: "* (multiplication)"
+          - title: "* (ko'paytirish)"
             url: multiplication.htm
-          - title: "+ (addition)"
+          - title: "+ (qo'shish)"
             url: addition.htm
-          - title: "- (subtraction)"
+          - title: "- (ayrish)"
             url: subtraction.htm
-          - title: "/ (division)"
+          - title: "/ (bo'lish)"
             url: division.htm
-          - title: "= (assignment operator)"
+          - title: "= (tayinlash operatori)"
             url: assignmentoperator.htm
       - title: "Taqqoslash operatorlari"
         entries:
-          - title: "!= (not equal to)"
+          - title: "!= (teng emas)"
             url: notequalto.htm
-          - title: "< (lessthan)"
+          - title: "< (kichik)"
             url: lessthan.htm
-          - title: "<= (less than or equal to)"
+          - title: "<= (kichik yoki teng)"
             url: lessthanorequalto.htm
-          - title: "== (equal to)"
+          - title: "== (teng)"
             url: equalto.htm
-          - title: "> (greaterthan)"
+          - title: "> (katta)"
             url: greaterthan.htm
-          - title: ">= (greater than or equal to)"
+          - title: ">= (katta yoki teng)"
             url: greaterthanorequalto.htm
       - title: "Mantiqiy operatorlar"
         entries:
-          - title: "! (logical not)"
+          - title: "! (inkor)"
             url: logicalnot.htm
-          - title: "&& (logicaland)"
+          - title: "&& (va)"
             url: logicaland.htm
-          - title: "|| (logical or)"
+          - title: "|| (yoki)"
             url: logicalor.htm
       - title: "Ko'rsatkichlar"
         entries:
