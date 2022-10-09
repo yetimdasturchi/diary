@@ -3,7 +3,7 @@ description: "Arduino dasturlash tilining uchta asosiy qismlari haqida o'zbek ti
 keywords: "arduino, robototexnika, avr, c, c++, dasturlash"
 entries:
   - title: "Funksiyalar"
-    after: "Arduino platasini boshqarish va hisob-kitoblarni bajarish uchun."
+    after: "(Arduino platasini boshqarish va hisob-kitoblarni bajarish uchun)"
     entries:
       - title: "Raqamli I/O"
         entries:
@@ -155,3 +155,224 @@ entries:
             url: keyboard.htm
           - title: "Sichqoncha"
             url: mouse.htm
+  - title: "O'zgaruvchilar"
+    after: "(ma'lumot turlari va konstantalar)"
+    entries:
+      - title: "Konstantalar"
+        entries:
+          - title: "HIGH"
+            url: "constants.htm#high"
+          - title: "LOW"
+            url: "constants.htm#low"
+          - title: "INPUT"
+            url: "constants.htm#input"
+          - title: "OUTPUT"
+            url: "constants.htm#output"
+          - title: "INPUT_PULLUP"
+            url: "constants.htm#input_pullup"
+          - title: "LED_BUILTIN"
+            url: "constants.htm#led_builtin"
+          - title: "true"
+            url: "constants.htm#true"
+          - title: "false"
+            url: "constants.htm#false"
+          - title: "Qo'zg'aluvchan nuqtali songa ega konstantalar"
+            url: floatingpointconstants.htm
+          - title: "Butun songa ega konstantalar"
+            url: integerconstants.htm
+      - title: "Konvertatsiya"
+        entries:
+          - title: "(unsigned int)"
+            url: unsignedintcast.htm
+          - title: "(unsigned long)"
+            url: unsignedlongcast.htm
+          - title: "byte()"
+            url: "byte.htm"
+          - title: "char()"
+            url: "char.htm"
+          - title: "float()"
+            url: "float.htm"
+          - title: "int()"
+            url: "int.htm"
+          - title: "long()"
+            url: "long.htm"
+          - title: "word()"
+            url: "word.htm"
+      - title: "Ma'lumot turlari"
+        entries:
+          - title: "array"
+            url: array.htm
+          - title: "bool"
+            url: bool.htm
+          - title: "boolean"
+            url: boolean.htm
+          - title: "byte"
+            url: byte.htm
+          - title: "char"
+            url: char.htm
+          - title: "double"
+            url: double.htm
+          - title: "float"
+            url: float.htm
+          - title: "int"
+            url: int.htm
+          - title: "long"
+            url: long.htm
+          - title: "short"
+            url: short.htm
+          - title: "size_t"
+            url: size_t.htm
+          - title: "string"
+            url: string.htm
+          - title: "String()"
+            url: string.htm
+          - title: "unsigned char"
+            url: unsignedchar.htm
+          - title: "unsigned int"
+            url: unsignedint.htm
+          - title: "unsigned long"
+            url: unsignedlong.htm
+          - title: "void"
+            url: void.htm
+          - title: "word"
+            url: word.htm
+      - title: "O'zgaruvchilar doirasi va kvalifikatorlar"
+        entries:
+          - title: "const"
+            url: const.htm
+          - title: "scope"
+            url: scope.htm
+          - title: "static"
+            url: static.htm
+          - title: "volatile"
+            url: volatile.htm
+      - title: "Utilitalar"
+        entries:
+          - title: "PROGMEM"
+            url: progmem.htm
+          - title: "sizeof()"
+            url: sizeof.htm
+  - title: "Tarkibiy tuzilish"
+    after: "(Arduinoda (C++) kodlash elementlari)"
+    entries:
+      - title: "Eskiz"
+        after: "(Sketch)"
+        entries:
+          - title: "loop()"
+            url: loop.htm
+          - title: "setup()"
+            url: setup.htm
+      - title: "Boshqaruv tuzilmasi"
+        entries:
+          - title: "break"
+            url: break.htm
+          - title: "continue"
+            url: continue.htm
+          - title: "do...while"
+            url: dowhile.htm
+          - title: "else"
+            url: else.htm
+          - title: "for"
+            url: for.htm
+          - title: "goto"
+            url: goto.htm
+          - title: "if"
+            url: if.htm
+          - title: "return"
+            url: return.htm
+          - title: "switch...case"
+            url: switchcase.htm
+          - title: "while"
+            url: while.htm
+      - title: "Qo'shimcha sintaksislar"
+        entries:
+          - title: "#define (define)"
+            url: define.htm
+          - title: "#include (include)"
+            url: include.htm
+          - title: "/* */ (block comment)"
+            url: blockcomment.htm
+          - title: "// (single line comment)"
+            url: singlelinecomment.htm
+          - title: "; (semicolon)"
+            url: semicolon.htm
+          - title: "{} (curly braces)"
+            url: curlybraces.htm
+      - title: "Arifmetik operatorlar"
+        entries:
+          - title: "% (remainder)"
+            url: remainder.htm
+          - title: "* (multiplication)"
+            url: multiplication.htm
+          - title: "+ (addition)"
+            url: addition.htm
+          - title: "- (subtraction)"
+            url: subtraction.htm
+          - title: "/ (division)"
+            url: division.htm
+          - title: "= (assignment operator)"
+            url: assignmentoperator.htm
+      - title: "Taqqoslash operatorlari"
+        entries:
+          - title: "!= (not equal to)"
+            url: notequalto.htm
+          - title: "< (lessthan)"
+            url: lessthan.htm
+          - title: "<= (less than or equal to)"
+            url: lessthanorequalto.htm
+          - title: "== (equal to)"
+            url: equalto.htm
+          - title: "> (greaterthan)"
+            url: greaterthan.htm
+          - title: ">= (greater than or equal to)"
+            url: greaterthanorequalto.htm
+      - title: "Mantiqiy operatorlar"
+        entries:
+          - title: "! (logical not)"
+            url: logicalnot.htm
+          - title: "&& (logicaland)"
+            url: logicaland.htm
+          - title: "|| (logical or)"
+            url: logicalor.htm
+      - title: "Ko'rsatkichlar"
+        entries:
+          - title: "& (reference operator)"
+            url: referenceoperator.htm
+          - title: "* (dereference operator)"
+            url: dereferenceoperator.htm
+      - title: "Bitwise Operators"
+        entries:
+          - title: "& (bitwise and)"
+            url: bitwiseand.htm
+          - title: "<< (bitshift left)"
+            url: bitshiftleft.htm
+          - title: ">> (bitshift right)"
+            url: bitshiftright.htm
+          - title: "^ (bitwise xor)"
+            url: bitwisexor.htm
+          - title: "| (bitwise or)"
+            url: bitwiseor.htm
+          - title: "~ (bitwise not)"
+            url: bitwisenot.htm
+      - title: "Tayinlash operatorlari"
+        entries:
+          - title: "%= (compound remainder)"
+            url: compoundremainder.htm
+          - title: "&= (compound bitwise and)"
+            url: compoundbitwiseand.htm
+          - title: "*= (compoundmultiplication)"
+            url: compoundmultiplication.htm
+          - title: "++ (increment)"
+            url: increment.htm
+          - title: "+= (compound addition)"
+            url: compoundaddition.htm
+          - title: "-- (decrement)"
+            url: decrement.htm
+          - title: "-= (compound subtraction)"
+            url: compoundsubtraction.htm
+          - title: "/= (compound division)"
+            url: compounddivision.htm
+          - title: "^= (compound bitwise xor)"
+            url: compoundbitwisexor.htm
+          - title: "|= (compoundbitwiseor)"
+            url: compoundbitwiseor.htm
