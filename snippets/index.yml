@@ -1,0 +1,19 @@
+title: "kod parchalari"
+description: "Yetim dasturchi tomonidan yozilgan kod parchalari."
+keywords: "parcha, snippets, code, kod, soft, program, til, tili, manuchehr, usmonov, devcon"
+entries:
+  - title: "2D massivni xls fayliga eksport qilish"
+    url: 2d-massivni-xls-fayliga-eksport-qilish.htm
+  - title: "Telegram chat botni linux shell orqali boshqarish"
+    url: telegram-chat-botni-linux-shell-orqali-boshqarish.htm
+  - title: "PHP yordamida rasm chizish"
+    url: php-yordamida-rasm-chizish.htm
+  - title: "PHP cli argumentlarini REQUEST_URIga o'tkazish"
+    after: "( php )"
+    url: php-agr-request-uri.htm
+  - title: "Javascriptda minimal router"
+    after: "( html, js )"
+    url: javascript-router.htm
+  - title: "Linux foydalanuvchi interfeysida sichqoncha g'ildiragi tezligi (scroll speed) ni sozlash."
+    after: "( bash )"
+    url: gildirak.htm

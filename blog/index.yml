@@ -1,0 +1,43 @@
+pagination: true
+title: "Bloglar"
+description: "Yetim dasturchi tomonidan yozilgan blogpostlar."
+keywords: "dastur, dasturlash, dasturchi, soft, program, til, tili, manuchehr, usmonov, devcon"
+entries:
+  - title: "Avr uchun kodlarni optimizatsiya qilish"
+    url: avr-uchun-kodlarni-optimizatsiya-qilish.htm
+  - title: "Imlo xatoliklarni tekshirish. Bu qanday ishlaydi?"
+    url: imlo-xatoliklarni-tekshirish-bu-qanday-ishlaydi.htm
+  - title: "Telegram instant view nima va qanday ishlaydi?"
+    url: telegram-instant-view-nima-va-qanday-ishlaydi.htm
+  - title: "Telegram chat botlar - bu qanday ishlaydi?"
+    url: telegram-chat-botlar-bu-qanday-ishlaydi.htm
+  - title: "Mantiqiy eshiklar"
+    url: mantiqiy-eshiklar.htm
+  - title: "Kod yozishning to'rta oltin qoidasi (misollar bilan)"
+    url: kod-yozishning-torta-oltin-qoidasi-misollar-bilan.htm
+  - title: "Nol va birdan assemblergacha"
+    url: nol-va-birdan-assemblergacha.htm
+  - title: "Led ring uchun ikkinchi hayotni bag'shlash"
+    url: led-ring-uchun-ikkinchi-hayotni-bagshlash.htm
+  - title: "WAFni yorib kirish ( kiberxavfsizlik )"
+    url: wafni-yorib-kirish-kiberxavfsizlik.htm
+  - title: "Multilanguage (ko'ptilli dasturlar) bu qanday ishlaydi?"
+    url: multilanguage-koptilli-dasturlar-bu-qanday-ishlaydi.htm
+  - title: "Raspberry PIni radioxuliganlarning orzusiga aylantiramiz"
+    url: raspberry-pini-radioxuliganlarning-orzusiga-aylantiramiz.htm
+  - title: "Deepin linux hmm..."
+    url: deepin-linux.htm
+  - title: "Datalife engine postlarini mamlakatlar bo'yicha boshqarish"
+    url: datalife-engine-postlarini-mamlakatlar-boyicha-boshqarish.htm
+  - title: "Bo'lajak dasturchilar uchun tavsiyalar"
+    url: bolajak-dasturchilar-uchun-tavsiyalar.htm
+  - title: "Dasturchiga matematikadan ko'ra mantiq ko'proq kerakmi?"
+    url: dasturchiga-matematikadan-kora-mantiq-koproq-kerakmi.htm
+  - title: "Psevdo kod (palag'da algoritm) nima va u biz uchun nega kerak?"
+    url: psevdokod.htm
+  - title: "Operatsion tizim nima va u qanday ishlaydi?"
+    url: operatsion_tizim_nima_va_u_qanday_ishlaydi.htm
+  - title: "Umr, asablar, sog'liqdan voz kechishga tayyormisiz? Unda dasturlash sohasiga marhamat"
+    url: umr_asablar_sogliqdan_voz_kechishga_tayyormisiz_unda_dasturlash_sohasiga_marhamat.htm
+  - title: "Frilanser — odam-kompaniya"
+    url: frilanser_odam_kompaniya.htm

@@ -1,0 +1,1329 @@
+pagination: true
+title: "izohli lug'at"
+description: "Axborot kommunikatsiya texnologiyalari izohli lug'ati."
+keywords: "izoh, atama, lug'at, kompyuter, dasturlash, dastur, oid"
+entries:
+  - title: 386BSD
+    url: 386bsd.htm
+  - title: 389 Directory Server
+    url: 389-directory-server.htm
+  - title: 86-DOS
+    url: 86-dos.htm
+  - title: ACPI spetsifikatsiyasi
+    url: acpi-spetsifikatsiyasi.htm
+  - title: ALPHA
+    url: alpha.htm
+  - title: ANSI kodi
+    url: ansi-kodi.htm
+  - title: ASII kodi
+    url: asii-kodi.htm
+  - title: AT - komandalar
+    url: at-komandalar.htm
+  - title: ActiveX
+    url: activex.htm
+  - title: Ada
+    url: ada.htm
+  - title: BASIC
+    url: basic.htm
+  - title: BeOS
+    url: beos.htm
+  - title: Bebbejning analitik mashinasi
+    url: bebbejning-analitik-mashinasi.htm
+  - title: Bul algebrasi
+    url: bul-algebrasi.htm
+  - title: "Butunjahon \xABo\u2018rgimchak to\u2018ri\xBB (WWW)"
+    url: butunjahon-o-rgimchak-to-ri-www.htm
+  - title: C#
+    url: c.htm
+  - title: C++
+    url: c.htm
+  - title: C-MOS-xotira
+    url: c-mos-xotira.htm
+  - title: COBOL dasturlash tili
+    url: cobol-dasturlash-tili.htm
+  - title: CULV
+    url: culv.htm
+  - title: Core 2
+    url: core-2.htm
+  - title: DDR2 SDRAM
+    url: ddr2-sdram.htm
+  - title: DELPHI
+    url: delphi.htm
+  - title: DOS Navigator
+    url: dos-navigator.htm
+  - title: Display Port
+    url: display-port.htm
+  - title: E-praktikum
+    url: e-praktikum.htm
+  - title: ER modeli
+    url: er-modeli.htm
+  - title: Energy star
+    url: energy-star.htm
+  - title: Ethernet
+    url: ethernet.htm
+  - title: Excel
+    url: excel.htm
+  - title: Express Card
+    url: express-card.htm
+  - title: FIDONET
+    url: fidonet.htm
+  - title: Fire Wire
+    url: fire-wire.htm
+  - title: Fort
+    url: fort.htm
+  - title: Fortran
+    url: fortran.htm
+  - title: Free Radius
+    url: free-radius.htm
+  - title: GeForce
+    url: geforce.htm
+  - title: HDDSCan
+    url: hddscan.htm
+  - title: HFS+
+    url: hfs.htm
+  - title: Hot Java
+    url: hot-java.htm
+  - title: Huper Transport
+    url: huper-transport.htm
+  - title: IP - telefoniya
+    url: ip-telefoniya.htm
+  - title: IP protokol
+    url: ip-protokol.htm
+  - title: IPtables
+    url: iptables.htm
+  - title: Infiniband
+    url: infiniband.htm
+  - title: Intel Core i5
+    url: intel-core-i5.htm
+  - title: Internet
+    url: internet.htm
+  - title: "Internet tarmog\u2018i"
+    url: internet-tarmog-i.htm
+  - title: Intranet
+    url: intranet.htm
+  - title: JEIDA standarti
+    url: jeida-standarti.htm
+  - title: JIT-kompilyatsiya
+    url: jit-kompilyatsiya.htm
+  - title: Java Script tili
+    url: java-script-tili.htm
+  - title: Java tili
+    url: java-tili.htm
+  - title: LISP dasturlash tili
+    url: lisp-dasturlash-tili.htm
+  - title: Linux
+    url: linux.htm
+  - title: LynxOS
+    url: lynxos.htm
+  - title: MAC OSX
+    url: mac-osx.htm
+  - title: MAC adres
+    url: mac-adres.htm
+  - title: MNP protokoli
+    url: mnp-protokoli.htm
+  - title: MS OFFICE
+    url: ms-office.htm
+  - title: MS-DOS
+    url: ms-dos.htm
+  - title: Microsoft
+    url: microsoft.htm
+  - title: NLSP protokoli
+    url: nlsp-protokoli.htm
+  - title: NVIDIA ION
+    url: nvidia-ion.htm
+  - title: Net Ware
+    url: net-ware.htm
+  - title: Net news
+    url: net-news.htm
+  - title: NetBurst
+    url: netburst.htm
+  - title: Neyman arxitekturasi
+    url: neyman-arxitekturasi.htm
+  - title: Nvidia tizim vositalari
+    url: nvidia-tizim-vositalari.htm
+  - title: OS/2 operatsion tizimi
+    url: os-2-operatsion-tizimi.htm
+  - title: Osiris serversiz portal tizimi
+    url: osiris-serversiz-portal-tizimi.htm
+  - title: Pascal dasturlash tili
+    url: pascal-dasturlash-tili.htm
+  - title: Pentium
+    url: pentium.htm
+  - title: Pentium III
+    url: pentium-iii.htm
+  - title: Pentium IV
+    url: pentium-iv.htm
+  - title: Power PC
+    url: power-pc.htm
+  - title: Prolog
+    url: prolog.htm
+  - title: Q-Bus
+    url: q-bus.htm
+  - title: RADIX-50
+    url: radix-50.htm
+  - title: RAM SSD
+    url: ram-ssd.htm
+  - title: RDRAM
+    url: rdram.htm
+  - title: RS - 232
+    url: rs-232.htm
+  - title: RTLinux
+    url: rtlinux.htm
+  - title: S-Bus
+    url: s-bus.htm
+  - title: Sandy Bridge
+    url: sandy-bridge.htm
+  - title: Si til
+    url: si-til.htm
+  - title: Teredo
+    url: teredo.htm
+  - title: UNIX operatsion tizimi
+    url: unix-operatsion-tizimi.htm
+  - title: "USB \u2013 flesh-topla\u01F5\u0131sh"
+    url: usb-flesh-topla-ish.htm
+  - title: Ultra Sparc
+    url: ultra-sparc.htm
+  - title: Unix Ware operatsion tizimi
+    url: unix-ware-operatsion-tizimi.htm
+  - title: VMware ESX Server
+    url: vmware-esx-server.htm
+  - title: WHDI
+    url: whdi.htm
+  - title: WINTEX-platforma
+    url: wintex-platforma.htm
+  - title: WYSIWYG printsipi
+    url: wysiwyg-printsipi.htm
+  - title: "Web \u2012 brauzer"
+    url: web-brauzer.htm
+  - title: Web-server
+    url: web-server.htm
+  - title: Wi-Fi
+    url: wi-fi.htm
+  - title: Win 32API
+    url: win-32api.htm
+  - title: Windows
+    url: windows.htm
+  - title: Word
+    url: word.htm
+  - title: XENIX operatsion tizimi
+    url: xenix-operatsion-tizimi.htm
+  - title: abak
+    url: abak.htm
+  - title: abonent
+    url: abonent.htm
+  - title: absolyut kattalik (modul)
+    url: absolyut-kattalik-modul.htm
+  - title: abstrakt hisoblash mashinasi
+    url: abstrakt-hisoblash-mashinasi.htm
+  - title: adapter
+    url: adapter.htm
+  - title: adreslash
+    url: adreslash.htm
+  - title: agent
+    url: agent.htm
+  - title: ajratkich
+    url: ajratkich.htm
+  - title: akkumulyator
+    url: akkumulyator.htm
+  - title: aksessuar
+    url: aksessuar.htm
+  - title: aktiv qurilma
+    url: aktiv-qurilma.htm
+  - title: aktuallashtirish
+    url: aktuallashtirish.htm
+  - title: alfavit
+    url: alfavit.htm
+  - title: algol
+    url: algol.htm
+  - title: algoritm
+    url: algoritm.htm
+  - title: algoritmik til
+    url: algoritmik-til.htm
+  - title: aloqa kanali
+    url: aloqa-kanali.htm
+  - title: "aloqa tarmog\u2018i"
+    url: aloqa-tarmog-i.htm
+  - title: amal
+    url: amal.htm
+  - title: amaliy dasturiy kompleks
+    url: amaliy-dasturiy-kompleks.htm
+  - title: amaliy dasturlar generatori
+    url: amaliy-dasturlar-generatori.htm
+  - title: amaliy dasturlash  interfeysi
+    url: amaliy-dasturlash-interfeysi.htm
+  - title: analog hisoblash mashinasi
+    url: analog-hisoblash-mashinasi.htm
+  - title: analog kattalik
+    url: analog-kattalik.htm
+  - title: animatsiya
+    url: animatsiya.htm
+  - title: antivirus
+    url: antivirus.htm
+  - title: "apparat ta\u2019minot kengayadigan interfeys"
+    url: apparat-ta-minot-kengayadigan-interfeys.htm
+  - title: applet
+    url: applet.htm
+  - title: arifmetik amal
+    url: arifmetik-amal.htm
+  - title: arifmetik ifoda
+    url: arifmetik-ifoda.htm
+  - title: arxitektura
+    url: arxitektura.htm
+  - title: arxivlash
+    url: arxivlash.htm
+  - title: asboblar majmui
+    url: asboblar-majmui.htm
+  - title: asinxron uzatish rejimi
+    url: asinxron-uzatish-rejimi.htm
+  - title: asosiy fayl jadvali
+    url: asosiy-fayl-jadvali.htm
+  - title: asosiy plata
+    url: asosiy-plata.htm
+  - title: asosiy yuklash yozuvi
+    url: asosiy-yuklash-yozuvi.htm
+  - title: assembler
+    url: assembler.htm
+  - title: assembler tili
+    url: assembler-tili.htm
+  - title: assemblerlash
+    url: assemblerlash.htm
+  - title: atom
+    url: atom.htm
+  - title: atribut
+    url: atribut.htm
+  - title: avtomat
+    url: avtomat.htm
+  - title: avtomatika
+    url: avtomatika.htm
+  - title: avtomatlashtirilgan dasturlash
+    url: avtomatlashtirilgan-dasturlash.htm
+  - title: avtomatlashtirilgan ish joyi
+    url: avtomatlashtirilgan-ish-joyi.htm
+  - title: avtomatlashtirilgan loyihalash tizimi
+    url: avtomatlashtirilgan-loyihalash-tizimi.htm
+  - title: avtomatlashtirish
+    url: avtomatlashtirish.htm
+  - title: avtonom rejim
+    url: avtonom-rejim.htm
+  - title: axborot
+    url: axborot.htm
+  - title: axborot almashinish uchun Amerika standart kodi
+    url: axborot-almashinish-uchun-amerika-standart-kodi.htm
+  - title: axborot sohasi
+    url: axborot-sohasi.htm
+  - title: axborot texnologiyalari
+    url: axborot-texnologiyalari.htm
+  - title: axborot tizimi
+    url: axborot-tizimi.htm
+  - title: axborotlashtirish
+    url: axborotlashtirish.htm
+  - title: aylantirish
+    url: aylantirish.htm
+  - title: bajaruvchi
+    url: bajaruvchi.htm
+  - title: banner
+    url: banner.htm
+  - title: bayroq
+    url: bayroq.htm
+  - title: bayt
+    url: bayt.htm
+  - title: belgi
+    url: belgi.htm
+  - title: biblioteka
+    url: biblioteka.htm
+  - title: bilim
+    url: bilim.htm
+  - title: bilimlar bazasi
+    url: bilimlar-bazasi.htm
+  - title: bilimlarni avtoformallashtirish
+    url: bilimlarni-avtoformallashtirish.htm
+  - title: "bir jinsli bo\u2018lmagan tarmoq"
+    url: bir-jinsli-bo-lmagan-tarmoq.htm
+  - title: bir rangdagi tarmoq
+    url: bir-rangdagi-tarmoq.htm
+  - title: bit
+    url: bit.htm
+  - title: blok
+    url: blok.htm
+  - title: blok sxema
+    url: blok-sxema.htm
+  - title: bloknotli kompyuter
+    url: bloknotli-kompyuter.htm
+  - title: bod
+    url: bod.htm
+  - title: "boshlang\u02BBich shart"
+    url: boshlang-ich-shart.htm
+  - title: "boshlang\u2018ich kod"
+    url: boshlang-ich-kod.htm
+  - title: boshqarish
+    url: boshqarish.htm
+  - title: bosma plata
+    url: bosma-plata.htm
+  - title: "bo\u2018lim"
+    url: bo-lim.htm
+  - title: "bo\u2018yash"
+    url: bo-yash.htm
+  - title: brauzer
+    url: brauzer.htm
+  - title: bufer
+    url: bufer.htm
+  - title: "butunga bo\u2018lish"
+    url: butunga-bo-lish.htm
+  - title: buzilishgacha ishlash vaqti
+    url: buzilishgacha-ishlash-vaqti.htm
+  - title: chastota
+    url: chastota.htm
+  - title: chat
+    url: chat.htm
+  - title: chin
+    url: chin.htm
+  - title: chip
+    url: chip.htm
+  - title: chipset
+    url: chipset.htm
+  - title: "chiqish uchlari to\u2018rt tomonda joylashgan yassi korpus"
+    url: chiqish-uchlari-to-rt-tomonda-joylashgan-yassi-korpus.htm
+  - title: "cho\u2018ntak"
+    url: cho-ntak.htm
+  - title: "cho\u2018ntak kompyuteri"
+    url: cho-ntak-kompyuteri.htm
+  - title: dBASE
+    url: dbase.htm
+  - title: damp
+    url: damp.htm
+  - title: daraxt
+    url: daraxt.htm
+  - title: dastur
+    url: dastur.htm
+  - title: dasturiy mahsulot
+    url: dasturiy-mahsulot.htm
+  - title: "dasturlarning ko\u2018rsatish uchun belgilangan paketlari"
+    url: dasturlarning-ko-rsatish-uchun-belgilangan-paketlari.htm
+  - title: dasturlash
+    url: dasturlash.htm
+  - title: dasturlash tili
+    url: dasturlash-tili.htm
+  - title: dasturni sozlash
+    url: dasturni-sozlash.htm
+  - title: dasturning bajarilishi
+    url: dasturning-bajarilishi.htm
+  - title: datchik
+    url: datchik.htm
+  - title: defragmentatsiya
+    url: defragmentatsiya.htm
+  - title: deinstallyator
+    url: deinstallyator.htm
+  - title: dekatenatsiya
+    url: dekatenatsiya.htm
+  - title: deklarativ dasturlash tili
+    url: deklarativ-dasturlash-tili.htm
+  - title: deskriptor
+    url: deskriptor.htm
+  - title: deytagramma
+    url: deytagramma.htm
+  - title: diagramma
+    url: diagramma.htm
+  - title: dialekt
+    url: dialekt.htm
+  - title: dialogli rejim
+    url: dialogli-rejim.htm
+  - title: digitayzer
+    url: digitayzer.htm
+  - title: dinamik joylashtiriladigan biblioteka
+    url: dinamik-joylashtiriladigan-biblioteka.htm
+  - title: dinamik komponovka
+    url: dinamik-komponovka.htm
+  - title: "dinamik ma\u2019lumotlar almashinishi"
+    url: dinamik-ma-lumotlar-almashinishi.htm
+  - title: dinamik operativ xotira
+    url: dinamik-operativ-xotira.htm
+  - title: disk
+    url: disk.htm
+  - title: disk sektori
+    url: disk-sektori.htm
+  - title: diskni keshlash
+    url: diskni-keshlash.htm
+  - title: diskret kattalik
+    url: diskret-kattalik.htm
+  - title: dispetcher
+    url: dispetcher.htm
+  - title: dispetcher ustuvorligi
+    url: dispetcher-ustuvorligi.htm
+  - title: displey
+    url: displey.htm
+  - title: displeyli panel
+    url: displeyli-panel.htm
+  - title: dizassemblirlash
+    url: dizassemblirlash.htm
+  - title: dizyunksiya
+    url: dizyunksiya.htm
+  - title: doimiy xotirlovchi qurilma
+    url: doimiy-xotirlovchi-qurilma.htm
+  - title: domen nomi
+    url: domen-nomi.htm
+  - title: drayver
+    url: drayver.htm
+  - title: ebtables
+    url: ebtables.htm
+  - title: egiluvchan magnit disk
+    url: egiluvchan-magnit-disk.htm
+  - title: ekranni himoyalash dasturi
+    url: ekranni-himoyalash-dasturi.htm
+  - title: ekspert tizimi
+    url: ekspert-tizimi.htm
+  - title: elektron disk
+    url: elektron-disk.htm
+  - title: "elektron e\u2019lonlar taxtasi"
+    url: elektron-e-lonlar-taxtasi.htm
+  - title: elektron jadval
+    url: elektron-jadval.htm
+  - title: elektron kalit
+    url: elektron-kalit.htm
+  - title: elektron pochta
+    url: elektron-pochta.htm
+  - title: elektron-nurli trubka asosidagi displey
+    url: elektron-nurli-trubka-asosidagi-displey.htm
+  - title: emulyator
+    url: emulyator.htm
+  - title: emulyatsiya
+    url: emulyatsiya.htm
+  - title: "energiyaga bog\u2018liq bo\u2018lgan xotira"
+    url: energiyaga-bog-liq-bo-lgan-xotira.htm
+  - title: "energiyaga bog\u2018liq bo\u2018lmagan xotira"
+    url: energiyaga-bog-liq-bo-lmagan-xotira.htm
+  - title: entropiya
+    url: entropiya.htm
+  - title: erkin foydalanish
+    url: erkin-foydalanish.htm
+  - title: "eslep qal\u0131wsh\u0131 qur\u0131lma"
+    url: eslep-qaliwshi-qurilma.htm
+  - title: estafetali halqa
+    url: estafetali-halqa.htm
+  - title: eyeOS
+    url: eyeos.htm
+  - title: faks-modem
+    url: faks-modem.htm
+  - title: fayl
+    url: fayl.htm
+  - title: fayl serveri
+    url: fayl-serveri.htm
+  - title: fayl tizimi
+    url: fayl-tizimi.htm
+  - title: fayllar katalogi
+    url: fayllar-katalogi.htm
+  - title: fayllarni uzatish protokoli
+    url: fayllarni-uzatish-protokoli.htm
+  - title: faylning yaratilish sanasi
+    url: faylning-yaratilish-sanasi.htm
+  - title: filtr
+    url: filtr.htm
+  - title: flesh-xotira
+    url: flesh-xotira.htm
+  - title: flops
+    url: flops.htm
+  - title: fon jarayoni
+    url: fon-jarayoni.htm
+  - title: formallashtirish
+    url: formallashtirish.htm
+  - title: formatlash
+    url: formatlash.htm
+  - title: foydalanuvchi
+    url: foydalanuvchi.htm
+  - title: funksional dasturlash tili
+    url: funksional-dasturlash-tili.htm
+  - title: funksional klavishlar
+    url: funksional-klavishlar.htm
+  - title: funksiya
+    url: funksiya.htm
+  - title: geoinformatsion tizim
+    url: geoinformatsion-tizim.htm
+  - title: gigabayt (Gbyte)
+    url: gigabayt-gbyte.htm
+  - title: giperhavola
+    url: giperhavola.htm
+  - title: giperkard
+    url: giperkard.htm
+  - title: gipermatn tavsiflash tili
+    url: gipermatn-tavsiflash-tili.htm
+  - title: gipermatnni uzatish protokoli
+    url: gipermatnni-uzatish-protokoli.htm
+  - title: gipervizor
+    url: gipervizor.htm
+  - title: "global o\u2018zgaruvchi"
+    url: global-o-zgaruvchi.htm
+  - title: golografiya
+    url: golografiya.htm
+  - title: graf
+    url: graf.htm
+  - title: grafik adapter
+    url: grafik-adapter.htm
+  - title: grafik akselerator
+    url: grafik-akselerator.htm
+  - title: grafik almashinish formati
+    url: grafik-almashinish-formati.htm
+  - title: grafik foydalanuvchi interfeysi
+    url: grafik-foydalanuvchi-interfeysi.htm
+  - title: grafik redaktor (muharrir)
+    url: grafik-redaktor-muharrir.htm
+  - title: grafika
+    url: grafika.htm
+  - title: hisoblash eksperimenti
+    url: hisoblash-eksperimenti.htm
+  - title: hisoblash mashinasi
+    url: hisoblash-mashinasi.htm
+  - title: "hisoblash tarmog\u2018i"
+    url: hisoblash-tarmog-i.htm
+  - title: hisoblash texnikasi
+    url: hisoblash-texnikasi.htm
+  - title: "hisobotlar va ko\u2018chirmalar amaliy tili"
+    url: hisobotlar-va-ko-chirmalar-amaliy-tili.htm
+  - title: hujjat
+    url: hujjat.htm
+  - title: hujjatlarni indekslash
+    url: hujjatlarni-indekslash.htm
+  - title: hujjatlashtirilgan axborot
+    url: hujjatlashtirilgan-axborot.htm
+  - title: identifikator
+    url: identifikator.htm
+  - title: ikki tomonlama xotira moduli
+    url: ikki-tomonlama-xotira-moduli.htm
+  - title: ikkilik izlash
+    url: ikkilik-izlash.htm
+  - title: ikkilik sanoq tizimi
+    url: ikkilik-sanoq-tizimi.htm
+  - title: ilova
+    url: ilova.htm
+  - title: ilovalarni tez ishlab chiqish
+    url: ilovalarni-tez-ishlab-chiqish.htm
+  - title: implikatsiya
+    url: implikatsiya.htm
+  - title: indeks
+    url: indeks.htm
+  - title: indekslash
+    url: indekslash.htm
+  - title: indikator
+    url: indikator.htm
+  - title: informatika
+    url: informatika.htm
+  - title: initsializatsiya
+    url: initsializatsiya.htm
+  - title: inkapsulyatsiya
+    url: inkapsulyatsiya.htm
+  - title: installyatsiya
+    url: installyatsiya.htm
+  - title: instruksiya
+    url: instruksiya.htm
+  - title: integratsiyalashgan ishlab chiqish muhiti
+    url: integratsiyalashgan-ishlab-chiqish-muhiti.htm
+  - title: integratsiyalashgan tizim
+    url: integratsiyalashgan-tizim.htm
+  - title: intellekt
+    url: intellekt.htm
+  - title: intellektual qurilma
+    url: intellektual-qurilma.htm
+  - title: interfeys
+    url: interfeys.htm
+  - title: interpretator
+    url: interpretator.htm
+  - title: invariant
+    url: invariant.htm
+  - title: ishchi stansiya
+    url: ishchi-stansiya.htm
+  - title: "istisno qiluvchi \xAByoki\xBB"
+    url: istisno-qiluvchi-yoki.htm
+  - title: iteratsiya
+    url: iteratsiya.htm
+  - title: "iyerarxik ma\u2019lumotlar bazasi"
+    url: iyerarxik-ma-lumotlar-bazasi.htm
+  - title: iyerarxiya
+    url: iyerarxiya.htm
+  - title: joylashtirish
+    url: joylashtirish.htm
+  - title: joystik
+    url: joystik.htm
+  - title: kadr
+    url: kadr.htm
+  - title: kalit
+    url: kalit.htm
+  - title: kartrij
+    url: kartrij.htm
+  - title: katta ikkilik obyekt
+    url: katta-ikkilik-obyekt.htm
+  - title: kattalik
+    url: kattalik.htm
+  - title: kengayadigan belgilash tili
+    url: kengayadigan-belgilash-tili.htm
+  - title: kengayish
+    url: kengayish.htm
+  - title: kengayish platasi
+    url: kengayish-platasi.htm
+  - title: kengaytirilgan fayllarning joylashish jadvali
+    url: kengaytirilgan-fayllarning-joylashish-jadvali.htm
+  - title: kesh-xotira
+    url: kesh-xotira.htm
+  - title: ketma-ket port
+    url: ketma-ket-port.htm
+  - title: kichik dastur
+    url: kichik-dastur.htm
+  - title: kichik hisoblash tizimlari interfeysi
+    url: kichik-hisoblash-tizimlari-interfeysi.htm
+  - title: kichik katalog
+    url: kichik-katalog.htm
+  - title: kilobayt (Kbyte)
+    url: kilobayt-kbyte.htm
+  - title: kirishlarni hisoblagich
+    url: kirishlarni-hisoblagich.htm
+  - title: kiritish
+    url: kiritish.htm
+  - title: kiritish/chiqarish qurilmalari
+    url: kiritish-chiqarish-qurilmalari.htm
+  - title: klaster
+    url: klaster.htm
+  - title: klaviatura
+    url: klaviatura.htm
+  - title: "klaviaturasi bo\u2018lmagan cho\u2018ntak kompyuteri"
+    url: klaviaturasi-bo-lmagan-cho-ntak-kompyuteri.htm
+  - title: klon
+    url: klon.htm
+  - title: kod
+    url: kod.htm
+  - title: kod jadvali
+    url: kod-jadvali.htm
+  - title: kodek
+    url: kodek.htm
+  - title: komanda
+    url: komanda.htm
+  - title: kompakt-disk
+    url: kompakt-disk.htm
+  - title: kompakt-diskdagi doimiy xotirlovchi qurilma
+    url: kompakt-diskdagi-doimiy-xotirlovchi-qurilma.htm
+  - title: kompilyator
+    url: kompilyator.htm
+  - title: kompilyatsiya
+    url: kompilyatsiya.htm
+  - title: komponentlarning obyekt modeli
+    url: komponentlarning-obyekt-modeli.htm
+  - title: komponovkachi
+    url: komponovkachi.htm
+  - title: kompyuter
+    url: kompyuter.htm
+  - title: "kompyuter o\u2018yini"
+    url: kompyuter-o-yini.htm
+  - title: "kompyuter tarmog\u2018i"
+    url: kompyuter-tarmog-i.htm
+  - title: "kompyuter tarmog\u2018i adminstratori"
+    url: kompyuter-tarmog-i-adminstratori.htm
+  - title: kompyuter virusi
+    url: kompyuter-virusi.htm
+  - title: kompyuterning tez ishlashi
+    url: kompyuterning-tez-ishlashi.htm
+  - title: konfiguratsion fayl
+    url: konfiguratsion-fayl.htm
+  - title: konfiguratsiya
+    url: konfiguratsiya.htm
+  - title: konkatenatsiya
+    url: konkatenatsiya.htm
+  - title: konsol
+    url: konsol.htm
+  - title: konstanta
+    url: konstanta.htm
+  - title: kontekst
+    url: kontekst.htm
+  - title: konteyner
+    url: konteyner.htm
+  - title: kontroller
+    url: kontroller.htm
+  - title: kontsentrator
+    url: kontsentrator.htm
+  - title: konversiyalash
+    url: konversiyalash.htm
+  - title: konveyer
+    url: konveyer.htm
+  - title: konyunksiya
+    url: konyunksiya.htm
+  - title: "ko\u2018rsatish uchun belgilangan versiya"
+    url: ko-rsatish-uchun-belgilangan-versiya.htm
+  - title: kriptografiya
+    url: kriptografiya.htm
+  - title: kross-tizim
+    url: kross-tizim.htm
+  - title: "krossplatformali dasturiy ta\u2019minot"
+    url: krossplatformali-dasturiy-ta-minot.htm
+  - title: "kursor, ko\u2018rsatkich"
+    url: kursor-ko-rsatkich.htm
+  - title: "lug\u2018at"
+    url: lug-at.htm
+  - title: manba
+    url: manba.htm
+  - title: markazlashtirilgan tarmoq
+    url: markazlashtirilgan-tarmoq.htm
+  - title: mashina tarjimasi
+    url: mashina-tarjimasi.htm
+  - title: masofadan boshqarish dasturi
+    url: masofadan-boshqarish-dasturi.htm
+  - title: "masofadan o\u2018qish-o\u2018qitish"
+    url: masofadan-o-qish-o-qitish.htm
+  - title: "masofadan ta\u2019lim"
+    url: masofadan-ta-lim.htm
+  - title: matn redaktori
+    url: matn-redaktori.htm
+  - title: maydon
+    url: maydon.htm
+  - title: "ma\u2019lumotlar"
+    url: ma-lumotlar.htm
+  - title: "ma\u2019lumotlar banki"
+    url: ma-lumotlar-banki.htm
+  - title: "ma\u2019lumotlar bazalari bilan birgalikda ishlash ochiq interfeysi"
+    url: ma-lumotlar-bazalari-bilan-birgalikda-ishlash-ochiq-interfeysi.htm
+  - title: "ma\u2019lumotlar bazasi"
+    url: ma-lumotlar-bazasi.htm
+  - title: "ma\u2019lumotlar bazasi administratori"
+    url: ma-lumotlar-bazasi-administratori.htm
+  - title: "ma\u2019lumotlar bazasini boshqarish tizimi (MBBT)"
+    url: ma-lumotlar-bazasini-boshqarish-tizimi-mbbt.htm
+  - title: "ma\u2019lumotlar ombori"
+    url: ma-lumotlar-ombori.htm
+  - title: "ma\u2019lumotlar uzatish muhiti"
+    url: ma-lumotlar-uzatish-muhiti.htm
+  - title: "ma\u2019lumotlar uzatish tezligi"
+    url: ma-lumotlar-uzatish-tezligi.htm
+  - title: "ma\u2019lumotlar uzatish vositalari"
+    url: ma-lumotlar-uzatish-vositalari.htm
+  - title: "ma\u2019lumotlarni asinxron uzatish"
+    url: ma-lumotlarni-asinxron-uzatish.htm
+  - title: "ma\u2019lumotlarni shifrlash"
+    url: ma-lumotlarni-shifrlash.htm
+  - title: "ma\u2019lumotlarni taqdim etish"
+    url: ma-lumotlarni-taqdim-etish.htm
+  - title: "ma\u2019lumotlarning yaxlitligi"
+    url: ma-lumotlarning-yaxlitligi.htm
+  - title: mijoz
+    url: mijoz.htm
+  - title: "modul bo\u2018yicha bo\u2018lish"
+    url: modul-bo-yicha-bo-lish.htm
+  - title: "muammoga yo\u2018naltirilgan dasturlash tili"
+    url: muammoga-yo-naltirilgan-dasturlash-tili.htm
+  - title: muhit
+    url: muhit.htm
+  - title: muhofaza qilish
+    url: muhofaza-qilish.htm
+  - title: mulohaza
+    url: mulohaza.htm
+  - title: "murakkab komandalar to\u2018plamiga ega protsessor"
+    url: murakkab-komandalar-to-plamiga-ega-protsessor.htm
+  - title: "murakkab tizimlarni loyihalash va obyektga yo\u2018naltirilgan tahlil qilish"
+    url: murakkab-tizimlarni-loyihalash-va-obyektga-yo-naltirilgan-tahlil-qilish.htm
+  - title: navbat
+    url: navbat.htm
+  - title: nutqiy kiritish
+    url: nutqiy-kiritish.htm
+  - title: nutqli kiritish
+    url: nutqli-kiritish.htm
+  - title: obyekt
+    url: obyekt.htm
+  - title: obyekt fayli
+    url: obyekt-fayli.htm
+  - title: "obyektga yo\u2018naltirilgan dasturlash"
+    url: obyektga-yo-naltirilgan-dasturlash.htm
+  - title: ochiq arxitektura
+    url: ochiq-arxitektura.htm
+  - title: ochiq tizim
+    url: ochiq-tizim.htm
+  - title: ochish
+    url: ochish.htm
+  - title: olisdagi uzellar serveri
+    url: olisdagi-uzellar-serveri.htm
+  - title: olislashtirilgan foydalanish
+    url: olislashtirilgan-foydalanish.htm
+  - title: operand
+    url: operand.htm
+  - title: operativ xotira qurilmasi
+    url: operativ-xotira-qurilmasi.htm
+  - title: operator
+    url: operator.htm
+  - title: operatsion tizim
+    url: operatsion-tizim.htm
+  - title: operatsion tizim yadrosi
+    url: operatsion-tizim-yadrosi.htm
+  - title: operatsion tizim yuklagichi
+    url: operatsion-tizim-yuklagichi.htm
+  - title: operatsiyalarni tadqiq qilish
+    url: operatsiyalarni-tadqiq-qilish.htm
+  - title: optik disk
+    url: optik-disk.htm
+  - title: optik tolali kabel
+    url: optik-tolali-kabel.htm
+  - title: "optik tolali taqsimlangan ma\u2019lumotlar interfeysi"
+    url: optik-tolali-taqsimlangan-ma-lumotlar-interfeysi.htm
+  - title: "optik to\u2018plagich"
+    url: optik-to-plagich.htm
+  - title: optoelektronika
+    url: optoelektronika.htm
+  - title: optsiya
+    url: optsiya.htm
+  - title: oxirgi avtomat
+    url: oxirgi-avtomat.htm
+  - title: oyna
+    url: oyna.htm
+  - title: "o\u2018qish"
+    url: o-qish.htm
+  - title: "o\u2018zgaruvchi"
+    url: o-zgaruvchi.htm
+  - title: paketli fayl
+    url: paketli-fayl.htm
+  - title: paketli qayta ishlash
+    url: paketli-qayta-ishlash.htm
+  - title: panel
+    url: panel.htm
+  - title: papka
+    url: papka.htm
+  - title: parallel port
+    url: parallel-port.htm
+  - title: parallel qayta ishlash
+    url: parallel-qayta-ishlash.htm
+  - title: parametr
+    url: parametr.htm
+  - title: parol
+    url: parol.htm
+  - title: pentium mover drive
+    url: pentium-mover-drive.htm
+  - title: periferik qurilmalar
+    url: periferik-qurilmalar.htm
+  - title: pero
+    url: pero.htm
+  - title: peyjerli aloqa
+    url: peyjerli-aloqa.htm
+  - title: piktogramma
+    url: piktogramma.htm
+  - title: platforma
+    url: platforma.htm
+  - title: plotter
+    url: plotter.htm
+  - title: polimorfizm
+    url: polimorfizm.htm
+  - title: port
+    url: port.htm
+  - title: portal
+    url: portal.htm
+  - title: portativ kompyuter
+    url: portativ-kompyuter.htm
+  - title: postfiks
+    url: postfiks.htm
+  - title: postuslovie
+    url: postuslovie.htm
+  - title: pozitsion sanoq tizimi
+    url: pozitsion-sanoq-tizimi.htm
+  - title: predikat
+    url: predikat.htm
+  - title: preprotsessor
+    url: preprotsessor.htm
+  - title: printer
+    url: printer.htm
+  - title: programmator
+    url: programmator.htm
+  - title: programmofon
+    url: programmofon.htm
+  - title: proksi server
+    url: proksi-server.htm
+  - title: proshivka
+    url: proshivka.htm
+  - title: protokol
+    url: protokol.htm
+  - title: protsedura
+    url: protsedura.htm
+  - title: "protseduraga yo\u2018naltirilgan dasturlash tili"
+    url: protseduraga-yo-naltirilgan-dasturlash-tili.htm
+  - title: protsessor
+    url: protsessor.htm
+  - title: protsessorning tez  ishlashi
+    url: protsessorning-tez-ishlashi.htm
+  - title: psevdografika
+    url: psevdografika.htm
+  - title: psevdotasodifiy sonlar
+    url: psevdotasodifiy-sonlar.htm
+  - title: qalqib chiqadigan menyu
+    url: qalqib-chiqadigan-menyu.htm
+  - title: qattiq magnit disk
+    url: qattiq-magnit-disk.htm
+  - title: qaynoq start
+    url: qaynoq-start.htm
+  - title: qayta yoziladigan kompakt-disk
+    url: qayta-yoziladigan-kompakt-disk.htm
+  - title: qiymat
+    url: qiymat.htm
+  - title: qobiq
+    url: qobiq.htm
+  - title: "qog\u2018ozsiz texnologiya"
+    url: qog-ozsiz-texnologiya.htm
+  - title: qotib qolish
+    url: qotib-qolish.htm
+  - title: "qo\u2018sh mustaqil shina arxitekturasi"
+    url: qo-sh-mustaqil-shina-arxitekturasi.htm
+  - title: "qo\u2018shimcha"
+    url: qo-shimcha.htm
+  - title: "qo\u2018yilganlik"
+    url: qo-yilganlik.htm
+  - title: "radiochastotali ma\u2019lumotlar uzatish vositalari"
+    url: radiochastotali-ma-lumotlar-uzatish-vositalari.htm
+  - title: ranjlash
+    url: ranjlash.htm
+  - title: raqamlashtirish
+    url: raqamlashtirish.htm
+  - title: raqamli universal disk
+    url: raqamli-universal-disk.htm
+  - title: raqamli videointerfeys
+    url: raqamli-videointerfeys.htm
+  - title: rastrli grafika
+    url: rastrli-grafika.htm
+  - title: razryad
+    url: razryad.htm
+  - title: real vaqt rejimi
+    url: real-vaqt-rejimi.htm
+  - title: real vaqtda analitik qayta ishlash
+    url: real-vaqtda-analitik-qayta-ishlash.htm
+  - title: registr
+    url: registr.htm
+  - title: rekursiv funksiya
+    url: rekursiv-funksiya.htm
+  - title: "relyatsion ma\u2019lumotlar bazasi"
+    url: relyatsion-ma-lumotlar-bazasi.htm
+  - title: "relyatsion ma\u2019lumotlar bazasini boshqarish tizimi (RMBBT)"
+    url: relyatsion-ma-lumotlar-bazasini-boshqarish-tizimi-rmbbt.htm
+  - title: relyatsion model
+    url: relyatsion-model.htm
+  - title: rezident dastur
+    url: rezident-dastur.htm
+  - title: "ro\u2018yxat"
+    url: ro-yxat.htm
+  - title: sakkizlik sanoq tizimi
+    url: sakkizlik-sanoq-tizimi.htm
+  - title: sana
+    url: sana.htm
+  - title: sanoq tizimi
+    url: sanoq-tizimi.htm
+  - title: saralash
+    url: saralash.htm
+  - title: satr
+    url: satr.htm
+  - title: sayt
+    url: sayt.htm
+  - title: segment
+    url: segment.htm
+  - title: sektor
+    url: sektor.htm
+  - title: semafor
+    url: semafor.htm
+  - title: semantika
+    url: semantika.htm
+  - title: sensorli panel
+    url: sensorli-panel.htm
+  - title: server
+    url: server.htm
+  - title: sharh
+    url: sharh.htm
+  - title: shart
+    url: shart.htm
+  - title: shaxsiy kompyuter
+    url: shaxsiy-kompyuter.htm
+  - title: shaxsiy raqamli sekretar
+    url: shaxsiy-raqamli-sekretar.htm
+  - title: shiddatli oqim
+    url: shiddatli-oqim.htm
+  - title: shifr
+    url: shifr.htm
+  - title: shina
+    url: shina.htm
+  - title: shina kontrolleri
+    url: shina-kontrolleri.htm
+  - title: shlyuz
+    url: shlyuz.htm
+  - title: shrift
+    url: shrift.htm
+  - title: shrift kartriji
+    url: shrift-kartriji.htm
+  - title: "shriftni o\u2018rnatish"
+    url: shriftni-o-rnatish.htm
+  - title: sichqoncha tugmachasini bosish
+    url: sichqoncha-tugmachasini-bosish.htm
+  - title: "sig\u2018im"
+    url: sig-im.htm
+  - title: sikl
+    url: sikl.htm
+  - title: sikl parametri
+    url: sikl-parametri.htm
+  - title: simpleks ulanish
+    url: simpleks-ulanish.htm
+  - title: simsiz belgilash tili
+    url: simsiz-belgilash-tili.htm
+  - title: simsiz erkin foydalanish protokoli
+    url: simsiz-erkin-foydalanish-protokoli.htm
+  - title: simvol
+    url: simvol.htm
+  - title: simvollarni optik aniqlash dasturi
+    url: simvollarni-optik-aniqlash-dasturi.htm
+  - title: sinaps
+    url: sinaps.htm
+  - title: sinergetika
+    url: sinergetika.htm
+  - title: sintaksis
+    url: sintaksis.htm
+  - title: sintaktik diagramma
+    url: sintaktik-diagramma.htm
+  - title: sinxronlash
+    url: sinxronlash.htm
+  - title: siqish
+    url: siqish.htm
+  - title: skaner
+    url: skaner.htm
+  - title: skrembler
+    url: skrembler.htm
+  - title: skript
+    url: skript.htm
+  - title: smartfon
+    url: smartfon.htm
+  - title: smaylik
+    url: smaylik.htm
+  - title: soddalashtirilgan modellash tili
+    url: soddalashtirilgan-modellash-tili.htm
+  - title: sokol tarmoq adapteri
+    url: sokol-tarmoq-adapteri.htm
+  - title: soprotsessor
+    url: soprotsessor.htm
+  - title: sozlovchi
+    url: sozlovchi.htm
+  - title: "so\u2018roq"
+    url: so-roq.htm
+  - title: "so\u2018z"
+    url: so-z.htm
+  - title: spam
+    url: spam.htm
+  - title: spetsifikatsiya
+    url: spetsifikatsiya.htm
+  - title: splayn
+    url: splayn.htm
+  - title: spravochnik
+    url: spravochnik.htm
+  - title: sprayt
+    url: sprayt.htm
+  - title: standart
+    url: standart.htm
+  - title: standart PCMCIA
+    url: standart-pcmcia.htm
+  - title: statik kompanovka
+    url: statik-kompanovka.htm
+  - title: statik operativ xotira
+    url: statik-operativ-xotira.htm
+  - title: statistik paket
+    url: statistik-paket.htm
+  - title: stek
+    url: stek.htm
+  - title: strimer
+    url: strimer.htm
+  - title: struktura
+    url: struktura.htm
+  - title: "strukturalangan so\u2018rovlar tili"
+    url: strukturalangan-so-rovlar-tili.htm
+  - title: strukturaviy dasturlash
+    url: strukturaviy-dasturlash.htm
+  - title: summator
+    url: summator.htm
+  - title: "sun\u2019iy intellekt"
+    url: sun-iy-intellekt.htm
+  - title: supervizor
+    url: supervizor.htm
+  - title: takomillashtirish
+    url: takomillashtirish.htm
+  - title: takrorlagich
+    url: takrorlagich.htm
+  - title: takrorlanish
+    url: takrorlanish.htm
+  - title: takt chastota generatori
+    url: takt-chastota-generatori.htm
+  - title: talqin qiluvchi dastur
+    url: talqin-qiluvchi-dastur.htm
+  - title: tanlab-tanlab olish
+    url: tanlab-tanlab-olish.htm
+  - title: "taqsimlangan ma\u2019lumotlar bazasi"
+    url: taqsimlangan-ma-lumotlar-bazasi.htm
+  - title: taqsimlangan qayta ishlash
+    url: taqsimlangan-qayta-ishlash.htm
+  - title: taqsimlangan tarmoq
+    url: taqsimlangan-tarmoq.htm
+  - title: taqsimlangan tizim
+    url: taqsimlangan-tizim.htm
+  - title: tarmoq
+    url: tarmoq.htm
+  - title: tarmoq boshqaruv tizimi
+    url: tarmoq-boshqaruv-tizimi.htm
+  - title: tarmoq kompyuteri
+    url: tarmoq-kompyuteri.htm
+  - title: "tarmoq ma\u2019lumotlar bazasi"
+    url: tarmoq-ma-lumotlar-bazasi.htm
+  - title: tarmoq operatsion tizimi
+    url: tarmoq-operatsion-tizimi.htm
+  - title: tarmoq resurslari
+    url: tarmoq-resurslari.htm
+  - title: tarmoqlanish
+    url: tarmoqlanish.htm
+  - title: tashqi qurilma
+    url: tashqi-qurilma.htm
+  - title: tashqi xotirlovchi qurilma
+    url: tashqi-xotirlovchi-qurilma.htm
+  - title: tasodifiy sonlar generatori
+    url: tasodifiy-sonlar-generatori.htm
+  - title: tayanch kiritish-chiqarish tizimi
+    url: tayanch-kiritish-chiqarish-tizimi.htm
+  - title: "ta\u2019minot"
+    url: ta-minot.htm
+  - title: teskari aloqa
+    url: teskari-aloqa.htm
+  - title: tezkor fayl tizimi
+    url: tezkor-fayl-tizimi.htm
+  - title: tezlashtirilgan grafika porti
+    url: tezlashtirilgan-grafika-porti.htm
+  - title: til
+    url: til.htm
+  - title: tiqin
+    url: tiqin.htm
+  - title: tizim
+    url: tizim.htm
+  - title: tizim platasi
+    url: tizim-platasi.htm
+  - title: tizimli blok
+    url: tizimli-blok.htm
+  - title: "tizimli dasturiy ta\u2019minot"
+    url: tizimli-dasturiy-ta-minot.htm
+  - title: tizimli yondashuv
+    url: tizimli-yondashuv.htm
+  - title: tizimni optimallash
+    url: tizimni-optimallash.htm
+  - title: "tizimning do\u2018stonaligi"
+    url: tizimning-do-stonaligi.htm
+  - title: "to\u2018plagichning tez ishlashi"
+    url: to-plagichning-tez-ishlashi.htm
+  - title: "to\u2018xtatish"
+    url: to-xtatish.htm
+  - title: "to\u2018xtatish"
+    url: to-xtatish.htm
+  - title: tushadigan menyu
+    url: tushadigan-menyu.htm
+  - title: umumiy arxitektura standarti
+    url: umumiy-arxitektura-standarti.htm
+  - title: umumiy shina
+    url: umumiy-shina.htm
+  - title: umumiy shlyuz interfeysi
+    url: umumiy-shlyuz-interfeysi.htm
+  - title: universal ketma-ket shina
+    url: universal-ketma-ket-shina.htm
+  - title: universal resurs identifikatori
+    url: universal-resurs-identifikatori.htm
+  - title: universal resurslar joyini aniqlagich
+    url: universal-resurslar-joyini-aniqlagich.htm
+  - title: utilita
+    url: utilita.htm
+  - title: uy kompyuteri
+    url: uy-kompyuteri.htm
+  - title: uz - faks
+    url: uz-faks.htm
+  - title: uzel
+    url: uzel.htm
+  - title: uzelni dinamik konfiguratsiyalash protokoli
+    url: uzelni-dinamik-konfiguratsiyalash-protokoli.htm
+  - title: "uzluksiz ta\u2019minot qurilmasi"
+    url: uzluksiz-ta-minot-qurilmasi.htm
+  - title: uzoq muddatli xotira
+    url: uzoq-muddatli-xotira.htm
+  - title: vaqtni taqsimlash
+    url: vaqtni-taqsimlash.htm
+  - title: vektor
+    url: vektor.htm
+  - title: vektorli grafika
+    url: vektorli-grafika.htm
+  - title: versiya
+    url: versiya.htm
+  - title: videoxotira
+    url: videoxotira.htm
+  - title: vinchester
+    url: vinchester.htm
+  - title: virtual borliq
+    url: virtual-borliq.htm
+  - title: virtual disk
+    url: virtual-disk.htm
+  - title: virtual mashina
+    url: virtual-mashina.htm
+  - title: virtual voqelikni modellashtiradigan til
+    url: virtual-voqelikni-modellashtiradigan-til.htm
+  - title: virtual xotira
+    url: virtual-xotira.htm
+  - title: vizual dasturlash
+    url: vizual-dasturlash.htm
+  - title: voqea
+    url: voqea.htm
+  - title: voqea - boshqariladigan dasturlash
+    url: voqea-boshqariladigan-dasturlash.htm
+  - title: xabar
+    url: xabar.htm
+  - title: xavfsiz kompyuter
+    url: xavfsiz-kompyuter.htm
+  - title: xeshlash
+    url: xeshlash.htm
+  - title: xit, mos kelish
+    url: xit-mos-kelish.htm
+  - title: "xizmatga oid so\u2018z"
+    url: xizmatga-oid-so-z.htm
+  - title: xizmatlari integratsiyalashgan raqamli tarmoq
+    url: xizmatlari-integratsiyalashgan-raqamli-tarmoq.htm
+  - title: xost-kompyuter
+    url: xost-kompyuter.htm
+  - title: xotira kartasi
+    url: xotira-kartasi.htm
+  - title: "xotiradan to\u2018g\u2018ridan-to\u2018g\u2018ri foydalanish"
+    url: xotiradan-to-g-ridan-to-g-ri-foydalanish.htm
+  - title: xotirani taqsimlash
+    url: xotirani-taqsimlash.htm
+  - title: xulosa chiqarish
+    url: xulosa-chiqarish.htm
+  - title: yacheykasimon topologiya-
+    url: yacheykasimon-topologiya.htm
+  - title: yadro
+    url: yadro.htm
+  - title: yangi texnologiya fayl tizimi
+    url: yangi-texnologiya-fayl-tizimi.htm
+  - title: yashirish
+    url: yashirish.htm
+  - title: yechimlar daraxti
+    url: yechimlar-daraxti.htm
+  - title: yordam
+    url: yordam.htm
+  - title: "yo\u2018l"
+    url: yo-l.htm
+  - title: "yo\u2018l ko\u2018rsatish"
+    url: yo-l-ko-rsatish.htm
+  - title: "yo\u2018lka"
+    url: yo-lka.htm
+  - title: "yo\u2018naltirilgan graf"
+    url: yo-naltirilgan-graf.htm
+  - title: yuklash
+    url: yuklash.htm
+  - title: yuklash sektori
+    url: yuklash-sektori.htm
+  - title: yulduz
+    url: yulduz.htm
+  - title: yunikod
+    url: yunikod.htm
+  - title: "\xABMen seni izlayman\xBB"
+    url: men-seni-izlayman.htm
+  - title: "\xABmijoz-server\xBB  arxitekturasining ma\u2019lumotlar bazasi"
+    url: mijoz-server-arxitekturasining-ma-lumotlar-bazasi.htm
+  - title: "\xABmijoz-server\xBB arxitekturasi"
+    url: mijoz-server-arxitekturasi.htm
+  - title: "\xABpastdan yuqoriga\xBB dasturlash"
+    url: pastdan-yuqoriga-dasturlash.htm
+  - title: "\xABqotil\xBB ilovalar"
+    url: qotil-ilovalar.htm
+  - title: "\xABsovuq\xBB start"
+    url: sovuq-start.htm
+  - title: "\xABula va ishla\xBB"
+    url: ula-va-ishla.htm
+  - title: "\xAByuqoridan pastga\xBB dasturlash"
+    url: yuqoridan-pastga-dasturlash.htm
