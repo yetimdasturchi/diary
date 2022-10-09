@@ -1,6 +1,6 @@
 ---
 toc: true
-title: "aAvr uchun kodlarni optimizatsiya qilish"
+title: "Avr uchun kodlarni optimizatsiya qilish"
 description: "Inson tiliga yaqinlashganimiz sari resurslar sarfidan yutqazib boraveramiz. Misol uchun pythondagi 1 qator kod q.."
 keywords: "arduino, c++, avr, qurilma, software, hardware, dasturlash, robototexnika"
 ---
