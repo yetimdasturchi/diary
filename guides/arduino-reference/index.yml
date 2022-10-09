@@ -1,0 +1,157 @@
+title: "Arduino dasturlash tili bo'yicha ma'lumotnoma"
+description: "Arduino dasturlash tilining uchta asosiy qismlari haqida o'zbek tilidagi ma'lumotnoma."
+keywords: "arduino, robototexnika, avr, c, c++, dasturlash"
+entries:
+  - title: "Funksiyalar"
+    after: "Arduino platasini boshqarish va hisob-kitoblarni bajarish uchun."
+    entries:
+      - title: "Raqamli I/O"
+        entries:
+          - title: "digitalRead()"
+            url: digitalread.htm
+          - title: "digitalWrite()"
+            url: digitalwrite.htm
+          - title: "pinMode"
+            url: pinmode.htm
+      - title: "Analog I/O"
+        entries:
+          - title: "analogRead()"
+            url: analogread.htm
+          - title: "analogReference()"
+            url: analogreference.htm
+          - title: "analogWrite"
+            url: analogwrite.htm
+      - title: "Zero, Due & MKR oilasi"
+        entries:
+          - title: "analogReadResolution()"
+            url: analogreadresolution.htm
+          - title: "analogWriteResolution()"
+            url: analogwriteresolution.htm
+      - title: "Kengaytirilgan I/O"
+        entries:
+          - title: "noTone()"
+            url: notone.htm
+          - title: "pulseIn()"
+            url: pulsein.htm
+          - title: "pulseInLong()"
+            url: pulseinlong.htm
+          - title: "shiftIn()"
+            url: shiftin.htm
+          - title: "shiftOut()"
+            url: shiftout.htm
+          - title: "tone()"
+            url: tone.htm
+      - title: "Vaqt"
+        entries:
+          - title: "delay()"
+            url: delay.htm
+          - title: "delayMicroseconds()"
+            url: delaymicroseconds.htm
+          - title: "micros()"
+            url: micros.htm
+          - title: "millis()"
+            url: millis.htm
+      - title: "Matematika"
+        entries:
+          - title: "abs()"
+            url: abs.htm
+          - title: "constrain()"
+            url: constrain.htm
+          - title: "map()"
+            url: map.htm
+          - title: "max()"
+            url: max.htm
+          - title: "min()"
+            url: min.htm
+          - title: "pow()"
+            url: pow.htm
+          - title: "sq()"
+            url: sq.htm
+          - title: "sqrt()"
+            url: sqrt.htm
+      - title: "Trigonometriya"
+        entries:
+          - title: "cos()"
+            url: cos.htm
+          - title: "sin()"
+            url: sin.htm
+          - title: "tan()"
+            url: tan.htm
+      - title: "Belgilar"
+        entries:
+          - title: "isAlpha()"
+            url: isalpha.htm
+          - title: "isAlphaNumeric()"
+            url: isalphanumeric.htm
+          - title: "isAscii()"
+            url: isascii.htm
+          - title: "isControl()"
+            url: iscontrol.htm
+          - title: "isDigit()"
+            url: isdigit.htm
+          - title: "isGraph()"
+            url: isgraph.htm
+          - title: "isHexadecimalDigit()"
+            url: ishexadecimaldigit.htm
+          - title: "isLowerCase()"
+            url: islowercase.htm
+          - title: "isPrintable()"
+            url: isprintable.htm
+          - title: "isPunct()"
+            url: ispunct.htm
+          - title: "isSpace()"
+            url: isspace.htm
+          - title: "isUpperCase()"
+            url: isuppercase.htm
+          - title: "isWhitespace()"
+            url: iswhitespace.htm
+      - title: "Tasodifiy raqamlar"
+        entries:
+          - title: "random()"
+            url: random.htm
+          - title: "randomSeed()"
+            url: randomseed.htm
+      - title: "Bitlar va baytlar"
+        entries:
+          - title: "bit()"
+            url: bit.htm
+          - title: "bitClear()"
+            url: bitclear.htm
+          - title: "bitRead()"
+            url: bitread.htm
+          - title: "bitSet()"
+            url: bitset.htm
+          - title: "bitWrite()"
+            url: bitwrite.htm
+          - title: "highByte()"
+            url: highbyte.htm
+          - title: "lowByte()"
+            url: lowbyte.htm
+      - title: "External Interrupts"
+        entries:
+          - title: "attachInterrupt()"
+            url: attachinterrupt.htm
+          - title: "detachInterrupt()"
+            url: detachinterrupt.htm
+      - title: "Interrupts"
+        entries:
+          - title: "interrupts()"
+            url: interrupts.htm
+          - title: "noInterrupts()"
+            url: nointerrupts.htm
+      - title: "Kommunikatsiyalar"
+        entries:
+          - title: "Serial"
+            url: serial.htm
+          - title: "SPI"
+            url: spi.htm
+          - title: "Stream"
+            url: stream.htm
+          - title: "Wire"
+            url: wire.htm
+      - title: "USB"
+        entries:
+          - title: "Klaviatura"
+            url: keyboard.htm
+          - title: "Sichqoncha"
+            url: mouse.htm
