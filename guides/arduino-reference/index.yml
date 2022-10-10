@@ -336,9 +336,9 @@ entries:
             url: logicalor.htm
       - title: "Ko'rsatkichlar"
         entries:
-          - title: "& (reference operator)"
+          - title: "& (referens)"
             url: referenceoperator.htm
-          - title: "* (dereference operator)"
+          - title: "* (dereferens)"
             url: dereferenceoperator.htm
       - title: "Bitwise Operators"
         entries:
@@ -362,11 +362,11 @@ entries:
             url: compoundbitwiseand.htm
           - title: "*= (compoundmultiplication)"
             url: compoundmultiplication.htm
-          - title: "++ (increment)"
+          - title: "++ (inkrement)"
             url: increment.htm
           - title: "+= (compound addition)"
             url: compoundaddition.htm
-          - title: "-- (decrement)"
+          - title: "-- (dekrement)"
             url: decrement.htm
           - title: "-= (compound subtraction)"
             url: compoundsubtraction.htm
